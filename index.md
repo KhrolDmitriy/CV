@@ -24,6 +24,7 @@ Bachelor's Degree in Mathematics and Computer Science 2015 - 2019
 * Intermediate English Level
 
 <p> <b>Code example: </b>
+
 ```javascript
 var blinking = true;
 var mypos = 0;
