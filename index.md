@@ -1,13 +1,16 @@
 <img src="C:\Users\Anmisyeah\Pictures\фото.jpg" width="100" align="right" vspace="5" hspace="5" alt = "Фото для cv">
-<p> <b> Contacs: </b><br>NEW!<br>
+<p> <b> Contacs: </b><br>NEW2!<br>
 
-* Mironov Andrey Stanislavovich
-* +375(29) 719-85-20
-* https://github.com/anmisyeah/it-step.git
-
+<ul>
+<li>Mironov Andrey Stanislavovich</li>
+<li>+375(29) 719-85-20</li>
+<li>https://github.com/anmisyeah/it-step.git</li>
+</ul>
 <p> <b>Professional Profile: </b><br>
- 
-* Mathematics and Computer Science Teacher with two years of experience.
+
+<ul>
+<li>Mathematics and Computer Science Teacher with two years of experience.</li>
+</ul>
 
 <p> <b> Technical Skills: </b><br>
  
