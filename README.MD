@@ -1,1 +1,1 @@
-https://jekyllnait.github.io/cv/.
+https://jekyllnait.github.io/CV/.
