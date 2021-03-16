@@ -1,4 +1,3 @@
-```html
 <img src="C:\Users\Anmisyeah\Pictures\фото.jpg" width="100" align="right" vspace="5" hspace="5" alt = "Фото для cv">
 <p> <b> Contacs: </b>
 * <p> Mironov Andrey Stanislavovich
@@ -43,4 +42,3 @@ if (blinking==true) {
   blinking = false;
 }
 </script>
-```
