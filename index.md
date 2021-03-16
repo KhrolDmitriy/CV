@@ -34,24 +34,21 @@ Bachelor's Degree in Mathematics and Computer Science 2015 - 2019
 
 <p> <b>Code example: </b>
 
-<code>
- 
-```javascript<br>
-var blinking = true;<br>
-var mypos = 0;<br>
-var dpos = 25;<br>
-var a = 1;<br>
-var b = 1;<br>
-stringm = new Array(4);<br>
-       stringm[1] = "Эта кнопка";<br>
-       stringm[2] = "изменила";<br>
-       stringm[3] = "свою надпись";<br>
-       stringm[4] = "Вам нравится?!";<br>
-function stopit() {<br>
-if (blinking==true) {<br>
- clearTimeout(ianID);<br>
-  document.forms[0].abutton.value = "Нажми для продолжения!";<br>
-  blinking = false;<br>
+```javascript
+var blinking = true;
+var mypos = 0;
+var dpos = 25;
+var a = 1;
+var b = 1;
+stringm = new Array(4);
+       stringm[1] = "Эта кнопка";
+       stringm[2] = "изменила";
+       stringm[3] = "свою надпись";
+       stringm[4] = "Вам нравится?!";
+function stopit() {
+if (blinking==true) {
+ clearTimeout(ianID);
+  document.forms[0].abutton.value = "Нажми для продолжения!";
+  blinking = false;
 }
 ```
-</code>
