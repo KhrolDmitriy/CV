@@ -11,7 +11,6 @@
 <p>* Mathematics and Computer Science Teacher with two years of experience.
 
 <p> <b> Technical Skills: </b>
-<p>
  
 <p>* HTML,CSS beginer
 <p>* JavaScript beginer
