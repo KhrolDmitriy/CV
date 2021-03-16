@@ -3,38 +3,34 @@
 NEW 2!
 <p>
 
-* <p> Mironov Andrey Stanislavovich
-* <p> +375(29) 719-85-20
-* <p> https://github.com/anmisyeah/it-step.git
+<p>* Mironov Andrey Stanislavovich
+<p>* +375(29) 719-85-20
+<p>* https://github.com/anmisyeah/it-step.git
 
 <p> <b>Professional Profile: </b>
-<p>
  
-* Mathematics and Computer Science Teacher with two years of experience.
+<p>* Mathematics and Computer Science Teacher with two years of experience.
 
 <p> <b> Technical Skills: </b>
 <p>
  
-* HTML,CSS beginer
-* JavaScript beginer
+<p>* HTML,CSS beginer
+<p>* JavaScript beginer
 
 <p> <b> Professional Experience: </b>
-<p>
  
-* It-Step Academy 2021
-* Additional programming classes at the University 2019 - 2020
+<p>* It-Step Academy 2021
+<p>* Additional programming classes at the University 2019 - 2020
 
 <p> <b> Education: </b>
-<p>
  
-* Mogilev State University named after A.A Kuleshov
+<p>* Mogilev State University named after A.A Kuleshov
 Master's Degree in Educational Science 2019 - 2020
 Bachelor's Degree in Mathematics and Computer Science 2015 - 2019
 
 <p> <b> Additional Information: </b>
-<p>
  
-* Intermediate English Level
+<p>* Intermediate English Level
 
 <p> <b>Code example: </b>
 <p>
