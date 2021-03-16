@@ -1,6 +1,5 @@
 <img src="C:\Users\Anmisyeah\Pictures\фото.jpg" width="100" align="right" vspace="5" hspace="5" alt = "Фото для cv">
 <p> <b> Contacs: </b>
-NEW 2!
 <p>
 
 <p>* Mironov Andrey Stanislavovich
