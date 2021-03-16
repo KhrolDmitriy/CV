@@ -33,7 +33,9 @@ Bachelor's Degree in Mathematics and Computer Science 2015 - 2019
 <p> <b>Code example: </b>
 <p>
  
-```javascript
+<code>
+ 
+ ```javascript
 var blinking = true;
 var mypos = 0;
 var dpos = 25;
@@ -51,3 +53,5 @@ if (blinking==true) {
   blinking = false;
 }
 ```
+
+</code>
