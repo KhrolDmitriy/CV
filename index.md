@@ -1,5 +1,5 @@
 <img src="C:\Users\Anmisyeah\Pictures\фото.jpg" width="100" align="right" vspace="5" hspace="5" alt = "Фото для cv">
-<p> <b> Contacs: </b><br><br>
+<p> <b> Contacs: </b><br>NEW!<br>
 
 * Mironov Andrey Stanislavovich
 * +375(29) 719-85-20
