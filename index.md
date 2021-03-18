@@ -1,11 +1,18 @@
 <img src="C:\Users\Anmisyeah\Pictures\фото.jpg" width="100" align="right" vspace="5" hspace="5" alt = "Фото для cv">
 <p> <b> Contacs: </b>
 
+<div>
+<div align="left">
 <ul>
 <li>Mironov Andrey Stanislavovich</li>
 <li>+375(29) 719-85-20</li>
 <li>https://github.com/anmisyeah/it-step.git</li>
 </ul>
+</div>
+<div align="rigth">
+<img src="C:\Users\Anmisyeah\Pictures\фото.jpg" width="100" align="right" vspace="5" hspace="5" alt = "Фото для cv">
+</div>
+</div>
 <p> <b>Professional Profile: </b>
 
 <ul>
